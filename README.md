@@ -1,5 +1,6 @@
 # ShuffleDeckOfCards
 A C++ program using header files and classes to make "decks" of cards (from vectors).
+The aspects of one class are used in another class in order to define individual cards (one class) that are in a deck (another class).
 
 ## Card.h
     * Header file contains the class Card and its constructors and function prototypes.
